@@ -16,3 +16,5 @@ There are 2 ways to scan this project.
 1. git clone https://github.com/srcclr/example-go-govendor/ $GOPATH/src/github.com/srcclr/example-go-govendor/
 2. srcclr scan $GOPATH/src/github.com/srcclr/example-go-govendor/
 ```
+
+test 123
