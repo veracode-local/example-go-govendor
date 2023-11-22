@@ -17,4 +17,4 @@ There are 2 ways to scan this project.
 2. srcclr scan $GOPATH/src/github.com/srcclr/example-go-govendor/
 ```
 
-test 12345
+test 123456
